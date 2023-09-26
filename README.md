@@ -1,2 +1,2 @@
-## a7
-Link to the deployed website: https://www.peijiewebsharer.me/<br>
+## Website Sharer (deprecated)
+A simple web app that allows users to post their favorite websites and like/comment on websites other users posted
